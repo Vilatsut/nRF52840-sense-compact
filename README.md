@@ -1,6 +1,10 @@
 # nRF52840-sense-compact
 
 ## Schematic
-#TODO add image
+![Schematic](Schematic.png)
 
 ## Board layout
+###Top
+![Top](Top.png)
+###Bottom
+![Bottom](Bot.png)
