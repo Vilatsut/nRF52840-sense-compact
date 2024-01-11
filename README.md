@@ -1,0 +1,1 @@
+# nRF52840-sense-compact
